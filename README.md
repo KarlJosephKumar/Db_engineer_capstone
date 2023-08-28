@@ -122,3 +122,30 @@ In the third task I have created a cancel booking stored procedure that takes th
 
 
 I have combined these tasks into file: AddAndUpdateBookings in Week2 directory.
+
+
+**Week 3**
+**Setting up Tableau for data analysis**
+
+I added excel sheet to Week3 called LittleLemonDBExcel that I am using in my data analysis.
+
+Task 1:
+
+I filtered the whole data in Data Source to only show United States as the country.
+
+![FilterUSFromWholeFile](https://github.com/KarlJosephKumar/Db_engineer_capstone/assets/41339304/7937a4ab-0340-4325-a381-6d278c0318d1)
+
+
+Task 2:
+
+In the second task I split the Customer name column into First Name and Last Name columns and named them.
+
+![NameSplit](https://github.com/KarlJosephKumar/Db_engineer_capstone/assets/41339304/de774535-37ee-4236-bb35-1dfee93ebce4)
+
+
+Task 3:
+
+In the third task I created a Profit column from Sales - Cost columns
+
+![ProfitColumn](https://github.com/KarlJosephKumar/Db_engineer_capstone/assets/41339304/5d761566-73e5-48f7-b75c-29cb297071b9)
+
