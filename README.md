@@ -200,7 +200,7 @@ The Tableau file contains all of the tasks done on Data source, seperate sheets 
 
 - Task 1:
 
-I connected with the database by importing mysql.connector into python. Then I created the connection where I specified my hostname, password, port(which is not default for me) and database name.
+I connected with the database by importing mysql.connector into python. Then I created the connection where I specified my hostname, password and database name.
 I connected and printed in which database I am at.
 
 - Task 2:
