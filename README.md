@@ -2,7 +2,23 @@
 
 The project is presented by Meta and is the final project for Meta Database Engineer Professional Certificate.
 In this project I am making a restaurant database for Little Lemon restaurant.
-For the project I use MySQL.
+
+## Key Learnings:
+- Data modeling
+- Relational database management
+- In-depth SQL language.
+- Tableau
+- Python
+- Jupyter
+
+## Technologies:
+-  MySQL
+-  Python
+-  MySQL Workbench
+-  MySQL Connector for Python
+
+## Description:
+Made a data model for the project and used SQL to create functions, prepared statements and procedures to fetch data, then created analytics for the data in Tableau. Connected the database with Python and used cursor to get data from the database.
 
 My Database model looks like this:
 
